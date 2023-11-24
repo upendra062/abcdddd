@@ -2,6 +2,6 @@
 ```
 bash command run here 
 ```
-terminal command
+no command
 ```
 ```
